@@ -1,6 +1,6 @@
-# 🔗 Trabalho 1 — Diferenciação Automática com Grafos Computacionais
+#  Trabalho 1 — Diferenciação Automática com Grafos Computacionais
 
-## 📌 Descrição
+##  Descrição
 
 Este repositório contém a implementação de um sistema de **diferenciação automática** baseado em **grafos computacionais**.
 
